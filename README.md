@@ -1,10 +1,11 @@
-# Repo for ICASSP 2024 Paper
+# Repository for ICASSP 2024 Paper
 
 This repository contains the key implementation for our **ICASSP 2024** paper on improving **children’s Oral Reading Fluency (ORF)** assessment via **sub-sequence matching of acoustic word embeddings**.
+A full repository is avaliable at Github repository [Educational Speech Assessment](https://github.com/YihaoJW/Educational_Speech_Assessment)
 
 **Paper:** *Improving Oral Reading Fluency Assessment Through Sub-Sequence Matching of Acoustic Word Embeddings*  [oai_citation:0 DBLP](https://dblp.org/pid/154/1923)  
 **Authors:** Yihao Wang, Zhongdi Wu, Joseph Nese, Akihito Kamata, Vedant Nilabh, Eric C. Larson  [oai_citation:1 DBLP](https://dblp.org/pid/154/1923)  
-**ICASSP 2024 pages:** 10766–10770  [oai_citation:2‡DBLP](https://dblp.org/pid/154/1923)  
+**ICASSP 2024 pages:** 10766–10770  [oai_citation:2 DBLP](https://dblp.org/pid/154/1923)  
 **PDF:** https://s2.smu.edu/~eclarson/pubs/2024_icassp_orf.pdf  [oai_citation:3‡SMU](https://s2.smu.edu/~eclarson/pubs/2024_icassp_orf.pdf)
 
 ## Overview
